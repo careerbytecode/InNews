@@ -18,6 +18,10 @@
 - Quantity control
 
 ## Usage
+-Install git 
+ yum install git
+- install python on amazonlinux
+- install pip on amazonlinux 
 - Clone my repository.
 - Open CMD in working directory.
 - Run following command.
